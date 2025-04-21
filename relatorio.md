@@ -1,20 +1,20 @@
 # 🧪 Relatório de Avaliação – Autograder HTML - Silas-Hoffmann
 
-**Data:** 21/04/2025 16:32
+**Data:** 21/04/2025 16:36
 
-**Nota Final:** `71.22/100`
+**Nota Final:** `85.11/100`
 **Status:** ✅ Aprovado
 
 ---
 ## ✅ Requisitos Obrigatórios (80%)
-- Foram encontrados `2` problemas nos requisitos obrigatórios. Veja abaixo os testes que falharam:
-  - ⚠️ **Falhou no teste**: `test_base.py::test_caption_present`
-    - **Melhoria sugerida**: Falta o elemento <caption> na tabela. Lembre-se de incluir a legenda na tabela.
+- Foram encontrados `1` problemas nos requisitos obrigatórios. Veja abaixo os testes que falharam:
   - ⚠️ **Falhou no teste**: `test_base.py::test_no_external_css`
     - **Melhoria sugerida**: O arquivo está utilizando CSS externo. Lembre-se de não incluir links para arquivos CSS externos.
 
 ## ⭐ Itens de Destaque (20%)
-- Você conquistou `3` bônus! Excelente trabalho nos detalhes adicionais!
+- Você conquistou `4` bônus! Excelente trabalho nos detalhes adicionais!
+  - 🌟 **Testes bônus passados**: `test_bonus.py::test_caption_is_meaningful`
+    - A legenda da tabela está bem definida e significativa. Excelente!
   - 🌟 **Testes bônus passados**: `test_bonus.py::test_more_than_two_rows_and_columns`
     - Sua tabela tem mais de 2 linhas e colunas, ótimo trabalho!
   - 🌟 **Testes bônus passados**: `test_bonus.py::test_indentation_and_formatting`
